@@ -136,9 +136,9 @@ FEDS = (
     'MPAA',
     'CERN',
     'NWA',
-		'ANONYMOUS',
-		'APT',
-		'BUSTICATI'
+    'ANONYMOUS',
+    'APT',
+    'BUSTICATI'
 )
 
 ################
