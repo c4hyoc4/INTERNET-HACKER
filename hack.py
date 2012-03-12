@@ -91,8 +91,8 @@ METHOD_END = (
     'ballpuncher',
     'emulsifier',
     'entanglement',
-    'meditate',
-    'mediat',
+    'meditation',
+    'mediation',
 )
 
 #################
