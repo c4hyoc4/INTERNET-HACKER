@@ -91,6 +91,8 @@ METHOD_END = (
     'ballpuncher',
     'emulsifier',
     'entanglement',
+    'meditation',
+    'mediation',
 )
 
 #################
@@ -111,7 +113,7 @@ SERVICE_PRE = (
     'facebook',
     'gijoe',
     'ebay',
-    'google'
+    'google',
 )
 # And these should just be ridiculous
 SERVICE_END = (
@@ -125,7 +127,7 @@ SERVICE_END = (
     'horsefly',
     'fungus',
     'meat',
-    'teste',
+    'teste'
 )
 
 ################
@@ -154,6 +156,10 @@ ACTIONS = (
     'CALCULATING',
     'REBOOTING',
     'LIQUIDATING ALL ASSETS',
+    'SUMMONING CTHULHU',
+    'RE-CALCULATING',
+    'RENDERING INTERNET DIAGRAM',
+    
 )
 
 #############
@@ -184,7 +190,13 @@ FEDS = (
     'NCAA',
     'ACLU',
     'NRA',
-    'SCIENTOLOGY'
+    'SCIENTOLOGY',
+    'NCA',
+    'UGANDA',
+    'NBA',
+    'NFL',
+    'BSA',
+    'ILLUMINATI',
 )
 
 ################
@@ -206,6 +218,8 @@ KILL_METHODS = (
     'GAME OVER',
     'YOU LOSE',
     'FATALITIY',
+    'BACK DOOR INTRUSION',
+    'PRESIDENTIAL INTERNET OVERRIDE',
 )
 
 ###########
