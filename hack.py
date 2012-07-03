@@ -52,6 +52,8 @@ METHOD_PRE = (
     'bamboozling',
     "poppin'",
     'polysyllabic',
+    'demoralized',
+    'enterprise',
 )
 # These should be "business" words 
 METHOD_MID = (
@@ -70,6 +72,7 @@ METHOD_MID = (
     'mapreduced',
     'digimatized',
     'anti-depressant',
+    'sanitized',
 )
 # These should be "action" words"
 METHOD_END = (
@@ -86,13 +89,15 @@ METHOD_END = (
     'probulator',
     'jiggery-pokery',
     'finglonger',
-    'rumination',
+    'ruminator',
     'infrastructure',
     'ballpuncher',
     'emulsifier',
-    'entanglement',
-    'meditation',
-    'mediation',
+    'entangler',
+    'meditator',
+    'mediator',
+    'transmogrifier',
+    'transmorpher'
 )
 
 #################
@@ -127,7 +132,12 @@ SERVICE_END = (
     'horsefly',
     'fungus',
     'meat',
-    'teste'
+    'teste',
+    'assdan',
+    'picard',
+    'ruxpin',
+    'supernintendo',
+    'quiver',
 )
 
 ################
@@ -159,7 +169,8 @@ ACTIONS = (
     'SUMMONING CTHULHU',
     'RE-CALCULATING',
     'RENDERING INTERNET DIAGRAM',
-    
+    'BUFFERING',
+    'INJECTING NULL POINTER',
 )
 
 #############
@@ -197,6 +208,8 @@ FEDS = (
     'NFL',
     'BSA',
     'ILLUMINATI',
+    'IRS',
+    'GIRL SCOUTS',
 )
 
 ################
