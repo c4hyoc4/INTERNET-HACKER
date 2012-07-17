@@ -5,7 +5,7 @@
 # MR DA PLAGUE <sOcKeT@GmAiL.CoM>
 # MINICOM <JaTHaN@gGMaiL.CoM>
 
-__version__ = '1.7'
+__version__ = '1.8'
 __author__ = 'MR DA PLAGUE'
 
 import datetime
@@ -210,6 +210,7 @@ FEDS = (
     'ILLUMINATI',
     'IRS',
     'GIRL SCOUTS',
+    'NICKI MINAJ'
 )
 
 ################
@@ -233,6 +234,7 @@ KILL_METHODS = (
     'FATALITIY',
     'BACK DOOR INTRUSION',
     'PRESIDENTIAL INTERNET OVERRIDE',
+    'PUT BEEZ IN THA TRAP, BEE BEEZ IN THA TRAP'
 )
 
 ###########
