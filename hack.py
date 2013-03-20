@@ -98,7 +98,8 @@ METHOD_END = (
     'meditator',
     'mediator',
     'transmogrifier',
-    'transmorpher'
+    'transmorpher',
+    'poo'
 )
 
 #################
