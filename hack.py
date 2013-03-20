@@ -185,7 +185,7 @@ ACTIONS = (
     'PACKET STASHING',
     'KILLING ALL HUMANS',
     'CALLING ON LURCH404',
-    'RUNNING TRACER-T'.
+    'RUNNING TRACER-T',
 )
 
 #############
