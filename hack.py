@@ -54,6 +54,7 @@ METHOD_PRE = (
     'polysyllabic',
     'demoralized',
     'enterprise',
+    'dustin.css-injected',
 )
 # These should be "business" words 
 METHOD_MID = (
@@ -210,7 +211,8 @@ FEDS = (
     'ILLUMINATI',
     'IRS',
     'GIRL SCOUTS',
-    'NICKI MINAJ'
+    'NICKI MINAJ',
+    'CNOBBLEC++11OX'
 )
 
 ################
