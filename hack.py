@@ -58,6 +58,7 @@ METHOD_PRE = (
     'guzzling',
     'xmlrpc',
     '19GB',
+    'polymorphic',
 )
 # These should be "business" words 
 METHOD_MID = (
@@ -146,6 +147,7 @@ SERVICE_END = (
     'supernintendo',
     'quiver',
     'c++template',
+    'onion ring'
 )
 
 ################
@@ -183,6 +185,7 @@ ACTIONS = (
     'PACKET STASHING',
     'KILLING ALL HUMANS',
     'CALLING ON LURCH404',
+    'RUNNING TRACER-T'.
 )
 
 #############
@@ -223,7 +226,8 @@ FEDS = (
     'IRS',
     'GIRL SCOUTS',
     'NICKI MINAJ',
-    'CNOBBLEC++11OX'
+    'CNOBBLEC++11OX',
+    'UNICEF'
 )
 
 ################
