@@ -55,6 +55,9 @@ METHOD_PRE = (
     'demoralized',
     'enterprise',
     'dustin.css-injected',
+    'guzzling',
+    'xmlrpc',
+    '19GB',
 )
 # These should be "business" words 
 METHOD_MID = (
@@ -74,6 +77,7 @@ METHOD_MID = (
     'digimatized',
     'anti-depressant',
     'sanitized',
+    'jewish',
 )
 # These should be "action" words"
 METHOD_END = (
@@ -99,7 +103,8 @@ METHOD_END = (
     'mediator',
     'transmogrifier',
     'transmorpher',
-    'poo'
+    'pooperfy',
+    'diddlering',
 )
 
 #################
@@ -140,6 +145,7 @@ SERVICE_END = (
     'ruxpin',
     'supernintendo',
     'quiver',
+    'c++template',
 )
 
 ################
@@ -173,6 +179,10 @@ ACTIONS = (
     'RENDERING INTERNET DIAGRAM',
     'BUFFERING',
     'INJECTING NULL POINTER',
+    'CRASHED STEPHENS IDE',
+    'PACKET STASHING',
+    'KILLING ALL HUMANS',
+    'CALLING ON LURCH404',
 )
 
 #############
